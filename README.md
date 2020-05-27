@@ -20,17 +20,18 @@ unplace students to be able to take further action.
 
 
 <b>Objective</b>:
+<br>
 Assess OO analysis, design, and Java programming skills. 
 
 
 <b>The implementation</b>:
-
-Primary features (must be implemented)
 <p>
+Primary features (must be implemented)
+<br>
 Data model of students, classes, subjects, and groups
 <br>
 Population of existing groups with students based on the subjects they are supposed to read and what classes they belong to. 
- <br>
+<br>
 The implementation must support both big and small schools, and everything in between. 
 <p>
 Secondary features (if time allows)
@@ -38,7 +39,7 @@ Secondary features (if time allows)
 Support minimum and maximum number of students in a group
 <br>
 Report unplaced students
-<p>
+
 
 <b>Technology</b>:
 
