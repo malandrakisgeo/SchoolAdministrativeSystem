@@ -26,7 +26,7 @@ Assess OO analysis, design, and Java programming skills.
 
 <b>The implementation</b>:
 <p>
-Primary features (must be implemented)
+Primary features (must be implemented):
 <br>
 Data model of students, classes, subjects, and groups
 <br>
@@ -34,16 +34,16 @@ Population of existing groups with students based on the subjects they are suppo
 <br>
 The implementation must support both big and small schools, and everything in between. 
 <p>
-Secondary features (if time allows)
+Secondary features (if time allows):
 <br>
 Support minimum and maximum number of students in a group
 <br>
 Report unplaced students
 
 
-<b>Technology</b>:
-
+<b>Technology</b>:<br>
 Java 8+
-Maven project
+<br>
+Maven project<br>
 Unit tests (100% class coverage, >80% method coverage)
 
